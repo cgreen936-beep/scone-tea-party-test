@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Lemon traybake">
+  <rect width="640" height="480" fill="#f8f3df"/>
+  <rect x="140" y="150" width="360" height="230" rx="16" fill="#f7e27a" stroke="#e2c45a" stroke-width="6"/>
+  <path d="M140 210h360" stroke="#fff6c2" stroke-width="28"/>
+  <path d="M260 150v230M380 150v230" stroke="#e6c84a" stroke-width="4"/>
+  <path d="M140 265h360M140 320h360" stroke="#e6c84a" stroke-width="4"/>
+  <circle cx="470" cy="120" r="36" fill="#ffe56a" stroke="#e2c45a" stroke-width="4"/>
+  <path d="M470 92v56M442 120h56" stroke="#f4f0c8" stroke-width="3"/>
+</svg>

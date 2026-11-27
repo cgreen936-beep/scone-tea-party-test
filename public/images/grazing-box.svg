@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Grazing box">
+  <rect width="640" height="480" fill="#f6ead8"/>
+  <rect x="120" y="120" width="400" height="270" rx="18" fill="#8c5a32"/>
+  <rect x="140" y="140" width="360" height="230" rx="12" fill="#f4e2c4"/>
+  <rect x="160" y="168" width="90" height="70" rx="8" fill="#f2d15a"/>
+  <rect x="168" y="176" width="74" height="22" rx="4" fill="#e2b43a"/>
+  <circle cx="300" cy="200" r="28" fill="#6a2438"/>
+  <circle cx="340" cy="214" r="22" fill="#7d3044"/>
+  <ellipse cx="450" cy="200" rx="46" ry="28" fill="#5c8a3a"/>
+  <circle cx="430" cy="190" r="8" fill="#6f3cc3"/>
+  <circle cx="456" cy="206" r="8" fill="#6f3cc3"/>
+  <rect x="175" y="270" width="120" height="28" rx="6" fill="#e7c98a"/>
+  <rect x="185" y="300" width="100" height="28" rx="6" fill="#efd7a4"/>
+  <circle cx="390" cy="300" r="26" fill="#d3543c"/>
+  <circle cx="440" cy="318" r="20" fill="#e07a3d"/>
+  <rect x="470" y="280" width="16" height="50" rx="4" fill="#f4f0e6"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Scone platter">
+  <rect width="640" height="480" fill="#f6ead8"/>
+  <ellipse cx="320" cy="390" rx="210" ry="28" fill="#e7d3b8"/>
+  <ellipse cx="320" cy="300" rx="220" ry="70" fill="#f7f1e8" stroke="#d9c3a4" stroke-width="6"/>
+  <g>
+    <ellipse cx="230" cy="250" rx="62" ry="36" fill="#e2b15a"/>
+    <ellipse cx="230" cy="236" rx="62" ry="34" fill="#f0cb7a"/>
+    <ellipse cx="320" cy="230" rx="66" ry="38" fill="#e2b15a"/>
+    <ellipse cx="320" cy="214" rx="66" ry="36" fill="#f3d08a"/>
+    <ellipse cx="410" cy="252" rx="60" ry="34" fill="#d9a44e"/>
+    <ellipse cx="410" cy="238" rx="60" ry="32" fill="#efc56e"/>
+    <ellipse cx="250" cy="268" rx="28" ry="16" fill="#f7f4ef"/>
+    <ellipse cx="360" cy="246" rx="30" ry="16" fill="#f7f4ef"/>
+    <ellipse cx="430" cy="270" rx="26" ry="14" fill="#f7f4ef"/>
+    <circle cx="248" cy="268" r="12" fill="#a3203a"/>
+    <circle cx="358" cy="246" r="13" fill="#8f1d36"/>
+    <circle cx="428" cy="270" r="11" fill="#a3203a"/>
+  </g>
+</svg>

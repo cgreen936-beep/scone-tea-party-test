@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Biscoff traybake">
+  <rect width="640" height="480" fill="#f6ead8"/>
+  <rect x="140" y="160" width="360" height="220" rx="16" fill="#c46a32"/>
+  <rect x="140" y="160" width="360" height="70" rx="16" fill="#e7b07a"/>
+  <rect x="140" y="200" width="360" height="30" fill="#f0d2ae"/>
+  <g fill="#8a3d1b">
+    <rect x="190" y="250" width="70" height="40" rx="6"/>
+    <rect x="285" y="250" width="70" height="40" rx="6"/>
+    <rect x="380" y="250" width="70" height="40" rx="6"/>
+    <rect x="230" y="305" width="70" height="40" rx="6"/>
+    <rect x="330" y="305" width="70" height="40" rx="6"/>
+  </g>
+  <g stroke="#f3d2b0" stroke-width="2">
+    <path d="M200 270h50M295 270h50M390 270h50"/>
+  </g>
+</svg>

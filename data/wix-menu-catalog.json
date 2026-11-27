@@ -1,0 +1,703 @@
+{
+  "siteId": "f60551ee-19a7-4963-973d-519aaeeac55e",
+  "storeUrl": "https://www.sconeteaparty.co.uk/",
+  "syncedAt": null,
+  "source": "local-seed",
+  "menus": [
+    "Classic Menu",
+    "Christmas Menu",
+    "Christmas Menu 2026"
+  ],
+  "items": [
+    {
+      "id": "snapshot:bbq-chicken-drumsticks",
+      "name": "BBQ Chicken Drumsticks",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Savoury Treats"
+      ],
+      "price": 16,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "7423d8e8-7a70-4f73-b586-9cd3bcff3b76",
+      "name": "Biscoff Traybake Cake",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Cakes"
+      ],
+      "price": 15,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:bread-bun-sandwich-platter",
+      "name": "Bread Bun Sandwich Platter",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Sandwich Platters"
+      ],
+      "price": 16,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:brioche-baguette-sandwich-platter",
+      "name": "Brioche Baguette Sandwich Platter",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Sandwich Platters"
+      ],
+      "price": 18,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:brunch-bagel-sandwich-box",
+      "name": "Brunch Bagel Sandwich Box",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Sandwich Platters"
+      ],
+      "price": 16,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:cheese-and-onion-rolls",
+      "name": "Cheese and Onion Rolls",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Savoury Treats"
+      ],
+      "price": 12,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:cheese-and-tomato-pastry-pinwheels",
+      "name": "Cheese and Tomato Pastry Pinwheels",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Savoury Treats"
+      ],
+      "price": 12,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:cheesy-garlic-pinwheels",
+      "name": "Cheesy Garlic Pinwheels",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Savoury Treats"
+      ],
+      "price": 12,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:childrens-sandwich-platter",
+      "name": "Children's Sandwich Platter",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Sandwich Platters"
+      ],
+      "price": 10,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:christmas-cupcakes",
+      "name": "Christmas Cupcakes",
+      "menus": [
+        "Christmas Menu",
+        "Christmas Menu 2026"
+      ],
+      "sections": [
+        "Cakes"
+      ],
+      "price": 15,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:christmas-sausage-rolls",
+      "name": "Christmas Sausage Rolls",
+      "menus": [
+        "Christmas Menu",
+        "Christmas Menu 2026"
+      ],
+      "sections": [
+        "Savoury Treats"
+      ],
+      "price": 16,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:christmas-traybake-cake",
+      "name": "Christmas Traybake Cake",
+      "menus": [
+        "Christmas Menu",
+        "Christmas Menu 2026"
+      ],
+      "sections": [
+        "Cakes"
+      ],
+      "price": 15,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "d8308752-a134-42b5-95c6-12ba9602a88f",
+      "name": "Classic Afternoon Tea",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Afternoon Tea"
+      ],
+      "price": 24,
+      "currency": "GBP",
+      "visible": false,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:classic-crisp-box",
+      "name": "Classic Crisp Box",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Savoury Treats"
+      ],
+      "price": 8,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "a33745c2-bdd0-4b27-b840-70aba010db86",
+      "name": "Classic Flavours Scone Platter",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Scones"
+      ],
+      "price": 8.5,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "692ddbc9-a009-4691-b87e-1bf8ae481bb2",
+      "name": "Classic Grazing Platter",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Grazing Boxes"
+      ],
+      "price": 28.5,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:classic-rocky-road",
+      "name": "Classic Rocky Road",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Cakes"
+      ],
+      "price": 12,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:crudites-grazing-platter",
+      "name": "Crudites Grazing Platter",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Grazing Boxes"
+      ],
+      "price": 16,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:deli-meats-grazing-platter",
+      "name": "Deli Meats Grazing Platter",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Grazing Boxes"
+      ],
+      "price": 30,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "05261f77-5dd2-480d-a82e-2787cc0d09ba",
+      "name": "Extra Large Classic Sandwich Platter",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Sandwich Platters"
+      ],
+      "price": 27,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:extra-large-vegetarian-sandwich-platter",
+      "name": "Extra Large Vegetarian Sandwich Platter",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Sandwich Platters"
+      ],
+      "price": 27,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:garlic-and-herb-chicken-drumsticks",
+      "name": "Garlic and Herb Chicken Drumsticks",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Savoury Treats"
+      ],
+      "price": 16,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "d3110813-7bf4-4d18-b2f0-5f39f4e66719",
+      "name": "Gluten Free Sandwich Platter",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Gluten Free Menu"
+      ],
+      "price": 11.5,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:homemade-pigs-in-blankets",
+      "name": "Homemade Pigs in Blankets",
+      "menus": [
+        "Christmas Menu",
+        "Christmas Menu 2026"
+      ],
+      "sections": [
+        "Savoury Treats"
+      ],
+      "price": 14,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:homemade-quiche",
+      "name": "Homemade Quiche",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Savoury Treats"
+      ],
+      "price": 18,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "4d8483a6-9826-4136-941e-627df9023b86",
+      "name": "Large Classic Sandwich Platter",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Sandwich Platters"
+      ],
+      "price": 18,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:large-salad-selection-box",
+      "name": "Large Salad Selection Box",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Savoury Treats"
+      ],
+      "price": 14,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:large-vegetarian-sandwich-platter",
+      "name": "Large Vegetarian Sandwich Platter",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Sandwich Platters"
+      ],
+      "price": 18,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "236df360-95d9-451c-ba61-1f0d6ba9d166",
+      "name": "Lemon Traybake Cake",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Cakes"
+      ],
+      "price": 12.5,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:mixed-box-of-pastries",
+      "name": "Mixed Box of Pastries",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Savoury Treats"
+      ],
+      "price": 14,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:mixed-traybake-platter",
+      "name": "Mixed Traybake Platter",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Cakes"
+      ],
+      "price": 16,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:one-flavour-scone-platter",
+      "name": "One Flavour Scone Platter",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Scones"
+      ],
+      "price": 8.5,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:open-scones-with-cream-and-jam",
+      "name": "Open Scones with Cream and Jam",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Scones"
+      ],
+      "price": 12,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:orange-crunch-tiffin",
+      "name": "Orange Crunch Tiffin",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Cakes"
+      ],
+      "price": 12,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:party-crisp-selection",
+      "name": "Party Crisp Selection",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Savoury Treats"
+      ],
+      "price": 10,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:pork-pie-selection",
+      "name": "Pork Pie Selection",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Savoury Treats"
+      ],
+      "price": 14,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "b22d540e-4c09-4882-90bf-4f02784b3d11",
+      "name": "Pork Sausage Rolls",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Savoury Treats"
+      ],
+      "price": 14,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:scotch-egg-selection",
+      "name": "Scotch Egg Selection",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Savoury Treats"
+      ],
+      "price": 12,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:selection-of-cupcakes",
+      "name": "Selection of Cupcakes",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Cakes"
+      ],
+      "price": 12,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:simple-salad-box",
+      "name": "Simple Salad Box",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Savoury Treats"
+      ],
+      "price": 8,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:simple-savoury-grazing-platter",
+      "name": "Simple Savoury Grazing Platter",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Grazing Boxes"
+      ],
+      "price": 22,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:small-cheese-box",
+      "name": "Small Cheese Box",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Grazing Boxes"
+      ],
+      "price": 12,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "d13672f8-50d1-4c7a-9709-601354f28010",
+      "name": "Small Classic Sandwich Platter",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Sandwich Platters"
+      ],
+      "price": 10,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:small-vegan-grazing-platter",
+      "name": "Small Vegan Grazing Platter",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Grazing Boxes"
+      ],
+      "price": 16,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:small-vegetarian-sandwich-platter",
+      "name": "Small Vegetarian Sandwich Platter",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Sandwich Platters"
+      ],
+      "price": 10,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:spiced-vegan-pinwheels",
+      "name": "Spiced Vegan Pinwheels",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Savoury Treats"
+      ],
+      "price": 12,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:sweet-chilli-topped-crisps",
+      "name": "Sweet Chilli Topped Crisps",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Savoury Treats"
+      ],
+      "price": 6,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "snapshot:sweet-treats-selection-box",
+      "name": "Sweet Treats Selection Box",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Cakes"
+      ],
+      "price": 12,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    },
+    {
+      "id": "0c5e1611-5679-4000-a6e4-bcd0aa50c9c5",
+      "name": "Vegan Sandwich Platter",
+      "menus": [
+        "Classic Menu"
+      ],
+      "sections": [
+        "Sandwich Platters"
+      ],
+      "price": 10,
+      "currency": "GBP",
+      "visible": true,
+      "duplicateIds": []
+    }
+  ]
+}

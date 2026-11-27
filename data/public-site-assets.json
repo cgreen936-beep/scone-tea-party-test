@@ -1,0 +1,864 @@
+{
+  "pulledAt": "2026-11-26T19:06:41.846Z",
+  "source": "https://www.sconeteaparty.co.uk/",
+  "pages": [
+    {
+      "url": "https://www.sconeteaparty.co.uk/",
+      "headings": [
+        "HOMEMADE CAKES AND SWEET TREATS",
+        "Orders must be placed at least 48 hours in advance through our website",
+        "&nbsp;About Us",
+        "Contact Us"
+      ]
+    },
+    {
+      "url": "https://www.sconeteaparty.co.uk/online-ordering",
+      "headings": [
+        "Online Ordering",
+        "Christmas Menu 2026",
+        "Sandwich Platters",
+        "Grazing Boxes",
+        "Savoury Treats",
+        "Cakes",
+        "Cupcakes",
+        "Scones",
+        "Sweet Treats",
+        "Gluten Free Menu",
+        "Extras"
+      ]
+    },
+    {
+      "url": "https://www.sconeteaparty.co.uk/help",
+      "headings": [
+        "FAQ AND HELP",
+        "How do I place my order?",
+        "Where do you deliver to?",
+        "Will my order arrive at the exact delivery time I selected?",
+        "are you open on christmas eve or christmas day?",
+        "Where do I collect my order from?",
+        "Where can I find your Allergy Information?",
+        "Can the items in your menu be adapted/changed to suit my needs and wants?",
+        "How do I inform you of my allergy?",
+        "Allergens and Ingredients&nbsp;",
+        "August 2026",
+        "Contact Us"
+      ]
+    },
+    {
+      "url": "https://www.sconeteaparty.co.uk/menu",
+      "headings": [
+        "Check out our new ordering page"
+      ]
+    },
+    {
+      "url": "https://www.sconeteaparty.co.uk/gallery",
+      "headings": []
+    }
+  ],
+  "logo": {
+    "sourceUrl": "https://static.wixstatic.com/media/4d6662_df414f3eb1ee4db696f6b67b3591d513~mv2.png",
+    "localPath": "/wix-clone-assets/4d6662-df414f3eb1ee4db696f6b67b3591d513-mv2.png"
+  },
+  "images": [
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_120bf790b80741da91b77c55d6fc1299%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/453b7f_120bf790b80741da91b77c55d6fc1299%7Emv2.png",
+      "localPath": "/wix-clone-assets/453b7f-120bf790b80741da91b77c55d6fc1299-mv2.png",
+      "alt": "",
+      "heading": "",
+      "pageUrl": "https://www.sconeteaparty.co.uk/",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/4d6662_df414f3eb1ee4db696f6b67b3591d513~mv2.png",
+      "localPath": "/wix-clone-assets/4d6662-df414f3eb1ee4db696f6b67b3591d513-mv2.png",
+      "alt": "logobg_edited.png",
+      "heading": "",
+      "pageUrl": "https://www.sconeteaparty.co.uk/",
+      "role": "logo"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_0a186d730fa546c6a751f4b1df0ac910~mv2.gif/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_0a186d730fa546c6a751f4b1df0ac910~mv2.gif",
+      "localPath": "/wix-clone-assets/453b7f-0a186d730fa546c6a751f4b1df0ac910-mv2.gif",
+      "alt": "Copy of SCONE (1).gif",
+      "heading": "",
+      "pageUrl": "https://www.sconeteaparty.co.uk/",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_5f85eb249d9641829973f0dfedd815bf~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/PXL_20250606_152643025~3_edited.jpg",
+      "localPath": "/wix-clone-assets/453b7f-5f85eb249d9641829973f0dfedd815bf-mv2.jpg",
+      "alt": "PXL_20250606_152643025~3_edited.jpg",
+      "heading": "",
+      "pageUrl": "https://www.sconeteaparty.co.uk/",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_444805d9a0714d94b3806e531ce1ce58~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_444805d9a0714d94b3806e531ce1ce58~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-444805d9a0714d94b3806e531ce1ce58-mv2.jpg",
+      "alt": "PXL_20250804_154610276.jpg",
+      "heading": "Orders must be placed at least 48 hours in advance through our website",
+      "pageUrl": "https://www.sconeteaparty.co.uk/",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_500268463ab943859d819ff9f7db92a1~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_500268463ab943859d819ff9f7db92a1~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-500268463ab943859d819ff9f7db92a1-mv2.jpg",
+      "alt": "PXL_20250706_070228323_edited.jpg",
+      "heading": "Orders must be placed at least 48 hours in advance through our website",
+      "pageUrl": "https://www.sconeteaparty.co.uk/",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_fa5d5a150b024edebdcf9f794996bcb9~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_fa5d5a150b024edebdcf9f794996bcb9~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-fa5d5a150b024edebdcf9f794996bcb9-mv2.jpg",
+      "alt": "PXL_20250713_133851524~2_edited.jpg",
+      "heading": "Orders must be placed at least 48 hours in advance through our website",
+      "pageUrl": "https://www.sconeteaparty.co.uk/",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_76962ebe35be4398aea3f26f8b52fcbc~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_76962ebe35be4398aea3f26f8b52fcbc~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-76962ebe35be4398aea3f26f8b52fcbc-mv2.jpg",
+      "alt": "PXL_20241219_120903179_edited.jpg",
+      "heading": "&nbsp;About Us",
+      "pageUrl": "https://www.sconeteaparty.co.uk/",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_4eafed0a8b74471a8a3143e5be6c31b0~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_4eafed0a8b74471a8a3143e5be6c31b0~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-4eafed0a8b74471a8a3143e5be6c31b0-mv2.jpg",
+      "alt": "png_20220131_093326_0000_edited.jpg",
+      "heading": "Contact Us",
+      "pageUrl": "https://www.sconeteaparty.co.uk/",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_362ef89dec51403eb0ee59a21bde967c~mv2.png/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/Twitter.png",
+      "localPath": "/wix-clone-assets/11062b-362ef89dec51403eb0ee59a21bde967c-mv2.png",
+      "alt": "Twitter",
+      "heading": "Contact Us",
+      "pageUrl": "https://www.sconeteaparty.co.uk/",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_325d4144dea94a0d979ecc9e41694501~mv2.png/v1/fit/w_2000,h_1200,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/453b7f_325d4144dea94a0d979ecc9e41694501~mv2.png",
+      "localPath": "/wix-clone-assets/453b7f-325d4144dea94a0d979ecc9e41694501-mv2.jpg",
+      "alt": "Sandwich Platters",
+      "heading": "Christmas Menu 2026",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_d456806c798a4593b5e836afc5f811b4~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_d456806c798a4593b5e836afc5f811b4~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-d456806c798a4593b5e836afc5f811b4-mv2.jpg",
+      "alt": "",
+      "heading": "Sandwich Platters",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_91bdd3c8598e4ab5afdd34d7f066f0ce~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_91bdd3c8598e4ab5afdd34d7f066f0ce~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-91bdd3c8598e4ab5afdd34d7f066f0ce-mv2.jpg",
+      "alt": "",
+      "heading": "Sandwich Platters",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_0eb86a78b55640e2a5244106d7a90094~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_0eb86a78b55640e2a5244106d7a90094~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-0eb86a78b55640e2a5244106d7a90094-mv2.jpg",
+      "alt": "",
+      "heading": "Sandwich Platters",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_6e8a6731b8dc4585937e5901bddd2cdd~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_6e8a6731b8dc4585937e5901bddd2cdd~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-6e8a6731b8dc4585937e5901bddd2cdd-mv2.jpg",
+      "alt": "",
+      "heading": "Sandwich Platters",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_b581779d46dd4e58a0c3e124d2441ec9~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_b581779d46dd4e58a0c3e124d2441ec9~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-b581779d46dd4e58a0c3e124d2441ec9-mv2.jpg",
+      "alt": "",
+      "heading": "Sandwich Platters",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_371f214c178a4c948ede0a9b392ce692~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_371f214c178a4c948ede0a9b392ce692~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-371f214c178a4c948ede0a9b392ce692-mv2.jpg",
+      "alt": "",
+      "heading": "Sandwich Platters",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_9b7bc22718fb415eb0294192e641551e~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_9b7bc22718fb415eb0294192e641551e~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-9b7bc22718fb415eb0294192e641551e-mv2.jpg",
+      "alt": "",
+      "heading": "Sandwich Platters",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_f1b859a975a64e73bc70bc3cb21c544c~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_f1b859a975a64e73bc70bc3cb21c544c~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-f1b859a975a64e73bc70bc3cb21c544c-mv2.jpg",
+      "alt": "",
+      "heading": "Sandwich Platters",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_904f71d578514dcbb924b4714660c23e~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_904f71d578514dcbb924b4714660c23e~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-904f71d578514dcbb924b4714660c23e-mv2.jpg",
+      "alt": "",
+      "heading": "Sandwich Platters",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_6b7e91dbb76d403fb5d9d550ab764ed4~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_6b7e91dbb76d403fb5d9d550ab764ed4~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-6b7e91dbb76d403fb5d9d550ab764ed4-mv2.jpg",
+      "alt": "",
+      "heading": "Sandwich Platters",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_a46b953d621049b7a58673587ad4f8a3~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_a46b953d621049b7a58673587ad4f8a3~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-a46b953d621049b7a58673587ad4f8a3-mv2.jpg",
+      "alt": "",
+      "heading": "Sandwich Platters",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_03debf57b20041678d5909efd27648ba~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_03debf57b20041678d5909efd27648ba~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-03debf57b20041678d5909efd27648ba-mv2.jpg",
+      "alt": "",
+      "heading": "Sandwich Platters",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_8e797dbde45948d39b608a9d654e1411~mv2.png/v1/fit/w_2000,h_1200,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/453b7f_8e797dbde45948d39b608a9d654e1411~mv2.png",
+      "localPath": "/wix-clone-assets/453b7f-8e797dbde45948d39b608a9d654e1411-mv2.jpg",
+      "alt": "Grazing Boxes",
+      "heading": "Sandwich Platters",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_d2321a9e08224464990afee813d0e18e~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_d2321a9e08224464990afee813d0e18e~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-d2321a9e08224464990afee813d0e18e-mv2.jpg",
+      "alt": "",
+      "heading": "Grazing Boxes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_631ea945d8e446d98b9541b995d774f5~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_631ea945d8e446d98b9541b995d774f5~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-631ea945d8e446d98b9541b995d774f5-mv2.jpg",
+      "alt": "",
+      "heading": "Grazing Boxes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_55cc88ef06a14a989221b5d910917c67~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_55cc88ef06a14a989221b5d910917c67~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-55cc88ef06a14a989221b5d910917c67-mv2.jpg",
+      "alt": "",
+      "heading": "Grazing Boxes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_5acba2523c77480f91781d3d42cd487c~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_5acba2523c77480f91781d3d42cd487c~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-5acba2523c77480f91781d3d42cd487c-mv2.jpg",
+      "alt": "",
+      "heading": "Grazing Boxes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_a016c966a1f34b9683ad5579b8972b74~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_a016c966a1f34b9683ad5579b8972b74~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-a016c966a1f34b9683ad5579b8972b74-mv2.jpg",
+      "alt": "",
+      "heading": "Grazing Boxes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_596bb60105d74c54856f0df7106d0adc~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_596bb60105d74c54856f0df7106d0adc~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-596bb60105d74c54856f0df7106d0adc-mv2.jpg",
+      "alt": "",
+      "heading": "Grazing Boxes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_2033c082c8514c0686ccb864f3bbc7eb~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_2033c082c8514c0686ccb864f3bbc7eb~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-2033c082c8514c0686ccb864f3bbc7eb-mv2.jpg",
+      "alt": "",
+      "heading": "Grazing Boxes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_8c59e5f1dd4d4b9c8a847f317008adc4~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_8c59e5f1dd4d4b9c8a847f317008adc4~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-8c59e5f1dd4d4b9c8a847f317008adc4-mv2.jpg",
+      "alt": "",
+      "heading": "Grazing Boxes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_a3d81cb148d141abad365a6c3c44c221~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_a3d81cb148d141abad365a6c3c44c221~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-a3d81cb148d141abad365a6c3c44c221-mv2.jpg",
+      "alt": "",
+      "heading": "Grazing Boxes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_93b6c803ebdc4641bc51b61375300a99~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_93b6c803ebdc4641bc51b61375300a99~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-93b6c803ebdc4641bc51b61375300a99-mv2.jpg",
+      "alt": "",
+      "heading": "Grazing Boxes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_5190d1d14d28436db3e9dd9ff690ace5~mv2.png/v1/fit/w_2000,h_1200,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/453b7f_5190d1d14d28436db3e9dd9ff690ace5~mv2.png",
+      "localPath": "/wix-clone-assets/453b7f-5190d1d14d28436db3e9dd9ff690ace5-mv2.png",
+      "alt": "Savoury Treats",
+      "heading": "Grazing Boxes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_6cc70bb92bc646de95dc468ee8974292~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_6cc70bb92bc646de95dc468ee8974292~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-6cc70bb92bc646de95dc468ee8974292-mv2.jpg",
+      "alt": "",
+      "heading": "Savoury Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_4e8c18a4413b459987c881697f3ea916~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_4e8c18a4413b459987c881697f3ea916~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-4e8c18a4413b459987c881697f3ea916-mv2.jpg",
+      "alt": "",
+      "heading": "Savoury Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_2f6948b1752a406cb6f3d0bd74c58856~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_2f6948b1752a406cb6f3d0bd74c58856~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-2f6948b1752a406cb6f3d0bd74c58856-mv2.jpg",
+      "alt": "",
+      "heading": "Savoury Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_be21a5568d1b4ed8bf1cac84b5e22f92~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_be21a5568d1b4ed8bf1cac84b5e22f92~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-be21a5568d1b4ed8bf1cac84b5e22f92-mv2.jpg",
+      "alt": "",
+      "heading": "Savoury Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_8a5a44a0491f4d5ea3f446b331f09a8c~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_8a5a44a0491f4d5ea3f446b331f09a8c~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-8a5a44a0491f4d5ea3f446b331f09a8c-mv2.jpg",
+      "alt": "",
+      "heading": "Savoury Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_62d0a3be19e847a99d4984c1a3d55149~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_62d0a3be19e847a99d4984c1a3d55149~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-62d0a3be19e847a99d4984c1a3d55149-mv2.jpg",
+      "alt": "",
+      "heading": "Savoury Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_ba81c2f1dcb8413fad6368d6a7d60d13~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_ba81c2f1dcb8413fad6368d6a7d60d13~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-ba81c2f1dcb8413fad6368d6a7d60d13-mv2.jpg",
+      "alt": "",
+      "heading": "Savoury Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_43ccefc3e9314862ab77bdb86da0439c~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_43ccefc3e9314862ab77bdb86da0439c~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-43ccefc3e9314862ab77bdb86da0439c-mv2.jpg",
+      "alt": "",
+      "heading": "Savoury Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_2f988458f64c4af2b2b479d631d21dc5~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_2f988458f64c4af2b2b479d631d21dc5~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-2f988458f64c4af2b2b479d631d21dc5-mv2.jpg",
+      "alt": "",
+      "heading": "Savoury Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_a3f5fdc30bc64770897393739a73562d~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_a3f5fdc30bc64770897393739a73562d~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-a3f5fdc30bc64770897393739a73562d-mv2.jpg",
+      "alt": "",
+      "heading": "Savoury Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_0781257dfd434855ba5b15949316eb16~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_0781257dfd434855ba5b15949316eb16~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-0781257dfd434855ba5b15949316eb16-mv2.jpg",
+      "alt": "",
+      "heading": "Savoury Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_07f01ec1c0fa4b96bb9a01454950e156~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_07f01ec1c0fa4b96bb9a01454950e156~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-07f01ec1c0fa4b96bb9a01454950e156-mv2.jpg",
+      "alt": "",
+      "heading": "Savoury Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_70999487af8a4084962b0938a2f96497~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_70999487af8a4084962b0938a2f96497~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-70999487af8a4084962b0938a2f96497-mv2.jpg",
+      "alt": "",
+      "heading": "Savoury Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_b716d8374847448da5201069d3ce86d6~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_b716d8374847448da5201069d3ce86d6~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-b716d8374847448da5201069d3ce86d6-mv2.jpg",
+      "alt": "",
+      "heading": "Savoury Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_8e1dd11ad7db4db2b585f2e7a7f67c50~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_8e1dd11ad7db4db2b585f2e7a7f67c50~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-8e1dd11ad7db4db2b585f2e7a7f67c50-mv2.jpg",
+      "alt": "",
+      "heading": "Savoury Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_c049b5413dc54b36962e48563e70b84a~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_c049b5413dc54b36962e48563e70b84a~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-c049b5413dc54b36962e48563e70b84a-mv2.jpg",
+      "alt": "",
+      "heading": "Savoury Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_d17eb0f7130d4130b6a0a7114019318e~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_d17eb0f7130d4130b6a0a7114019318e~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-d17eb0f7130d4130b6a0a7114019318e-mv2.jpg",
+      "alt": "",
+      "heading": "Savoury Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_3d51f1051ee0434f8f3ebd8ea7e35bc4~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_3d51f1051ee0434f8f3ebd8ea7e35bc4~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-3d51f1051ee0434f8f3ebd8ea7e35bc4-mv2.jpg",
+      "alt": "",
+      "heading": "Savoury Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_2de088d163484880b9b1bc5e4e1cb7ac~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_2de088d163484880b9b1bc5e4e1cb7ac~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-2de088d163484880b9b1bc5e4e1cb7ac-mv2.jpg",
+      "alt": "",
+      "heading": "Savoury Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_8eebe93f250a4c19aebb78c4f0475fb8~mv2.png/v1/fit/w_2000,h_1200,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/453b7f_8eebe93f250a4c19aebb78c4f0475fb8~mv2.png",
+      "localPath": "/wix-clone-assets/453b7f-8eebe93f250a4c19aebb78c4f0475fb8-mv2.jpg",
+      "alt": "Cakes",
+      "heading": "Savoury Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_d9bd118e54f04f53951d344d84ef48fb~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_d9bd118e54f04f53951d344d84ef48fb~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-d9bd118e54f04f53951d344d84ef48fb-mv2.jpg",
+      "alt": "",
+      "heading": "Cakes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_a2d2d903ec56448a985067e932d59ac5~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_a2d2d903ec56448a985067e932d59ac5~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-a2d2d903ec56448a985067e932d59ac5-mv2.jpg",
+      "alt": "",
+      "heading": "Cakes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_01642a9a2c8a4ffd80ace86434c0b53c~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_01642a9a2c8a4ffd80ace86434c0b53c~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-01642a9a2c8a4ffd80ace86434c0b53c-mv2.jpg",
+      "alt": "",
+      "heading": "Cakes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_46e4a4674ecd44248b1b9441869bb558~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_46e4a4674ecd44248b1b9441869bb558~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-46e4a4674ecd44248b1b9441869bb558-mv2.jpg",
+      "alt": "",
+      "heading": "Cakes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_20defd20d1c64a62bc00dfa03c65fb68~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_20defd20d1c64a62bc00dfa03c65fb68~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-20defd20d1c64a62bc00dfa03c65fb68-mv2.jpg",
+      "alt": "",
+      "heading": "Cakes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_f5b69092704a424289b01121a56f0f0a~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_f5b69092704a424289b01121a56f0f0a~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-f5b69092704a424289b01121a56f0f0a-mv2.jpg",
+      "alt": "",
+      "heading": "Cakes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_fbbfdbc6df994954a966b4d6b230c2fc~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_fbbfdbc6df994954a966b4d6b230c2fc~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-fbbfdbc6df994954a966b4d6b230c2fc-mv2.jpg",
+      "alt": "",
+      "heading": "Cakes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_77ef66764251494f8ac0634e5dcddfef~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_77ef66764251494f8ac0634e5dcddfef~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-77ef66764251494f8ac0634e5dcddfef-mv2.jpg",
+      "alt": "",
+      "heading": "Cakes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_2d06224d59134ded877422313d5e2b14~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_2d06224d59134ded877422313d5e2b14~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-2d06224d59134ded877422313d5e2b14-mv2.jpg",
+      "alt": "",
+      "heading": "Cakes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_25ebda746be74368bd60546e5c7f89fc~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_25ebda746be74368bd60546e5c7f89fc~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-25ebda746be74368bd60546e5c7f89fc-mv2.jpg",
+      "alt": "",
+      "heading": "Cakes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_911d195968d640a6a404ccd25ee21b69~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_911d195968d640a6a404ccd25ee21b69~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-911d195968d640a6a404ccd25ee21b69-mv2.jpg",
+      "alt": "",
+      "heading": "Cakes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_3634d49a79694f37961eaba7c5db7514~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_3634d49a79694f37961eaba7c5db7514~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-3634d49a79694f37961eaba7c5db7514-mv2.jpg",
+      "alt": "",
+      "heading": "Cakes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_54735908f27245dfa32305cf299f24eb~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_54735908f27245dfa32305cf299f24eb~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-54735908f27245dfa32305cf299f24eb-mv2.jpg",
+      "alt": "",
+      "heading": "Cakes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_bdc5043e2940467da5f3b459c3702203~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_bdc5043e2940467da5f3b459c3702203~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-bdc5043e2940467da5f3b459c3702203-mv2.jpg",
+      "alt": "",
+      "heading": "Cakes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_812fc5692db04de9864ea280f4592213~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_812fc5692db04de9864ea280f4592213~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-812fc5692db04de9864ea280f4592213-mv2.jpg",
+      "alt": "",
+      "heading": "Cakes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_a78ca965e649415e900ca3c34ed53b46~mv2.jpg/v1/fit/w_2000,h_1200,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/453b7f_a78ca965e649415e900ca3c34ed53b46~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-a78ca965e649415e900ca3c34ed53b46-mv2.jpg",
+      "alt": "Cupcakes",
+      "heading": "Cakes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_e6994d3c881f4ed7b10b59822e460e33~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_e6994d3c881f4ed7b10b59822e460e33~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-e6994d3c881f4ed7b10b59822e460e33-mv2.jpg",
+      "alt": "",
+      "heading": "Cupcakes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_c14eee143c4a44d7911edd9bf378edb5~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_c14eee143c4a44d7911edd9bf378edb5~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-c14eee143c4a44d7911edd9bf378edb5-mv2.jpg",
+      "alt": "",
+      "heading": "Cupcakes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_40e2b51e40e140099919a5796b4ad935~mv2.png/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_40e2b51e40e140099919a5796b4ad935~mv2.png",
+      "localPath": "/wix-clone-assets/453b7f-40e2b51e40e140099919a5796b4ad935-mv2.png",
+      "alt": "",
+      "heading": "Cupcakes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_f1579c73aaca4bbbaf939354bb6cc6d8~mv2.png/v1/fit/w_2000,h_1200,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/453b7f_f1579c73aaca4bbbaf939354bb6cc6d8~mv2.png",
+      "localPath": "/wix-clone-assets/453b7f-f1579c73aaca4bbbaf939354bb6cc6d8-mv2.jpg",
+      "alt": "Scones",
+      "heading": "Cupcakes",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_814858db3b85485a9b811e82b53eae57~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_814858db3b85485a9b811e82b53eae57~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-814858db3b85485a9b811e82b53eae57-mv2.jpg",
+      "alt": "",
+      "heading": "Scones",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_18da0631dffa4c15a352341ec596cdd5~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_18da0631dffa4c15a352341ec596cdd5~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-18da0631dffa4c15a352341ec596cdd5-mv2.jpg",
+      "alt": "",
+      "heading": "Scones",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_c439bb514f3342e9bb562e6363b3b2d8~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_c439bb514f3342e9bb562e6363b3b2d8~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-c439bb514f3342e9bb562e6363b3b2d8-mv2.jpg",
+      "alt": "",
+      "heading": "Scones",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_f710702aa6c749ea9fb30e770f37bec3~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_f710702aa6c749ea9fb30e770f37bec3~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-f710702aa6c749ea9fb30e770f37bec3-mv2.jpg",
+      "alt": "",
+      "heading": "Scones",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_646217a0639746e28b9add8465475ce8~mv2.png/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_646217a0639746e28b9add8465475ce8~mv2.png",
+      "localPath": "/wix-clone-assets/453b7f-646217a0639746e28b9add8465475ce8-mv2.png",
+      "alt": "",
+      "heading": "Scones",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_ad060884997a4050826935f255dd94fc~mv2.png/v1/fit/w_2000,h_1200,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/453b7f_ad060884997a4050826935f255dd94fc~mv2.png",
+      "localPath": "/wix-clone-assets/453b7f-ad060884997a4050826935f255dd94fc-mv2.jpg",
+      "alt": "Sweet Treats",
+      "heading": "Scones",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_d42a6727cade463dab858dc68268bddf~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_d42a6727cade463dab858dc68268bddf~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-d42a6727cade463dab858dc68268bddf-mv2.jpg",
+      "alt": "",
+      "heading": "Sweet Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_9e938886ccb04417b2d69049924d84fa~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_9e938886ccb04417b2d69049924d84fa~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-9e938886ccb04417b2d69049924d84fa-mv2.jpg",
+      "alt": "",
+      "heading": "Sweet Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_c2099d994ced4bd088f1858fa108efd4~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_c2099d994ced4bd088f1858fa108efd4~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-c2099d994ced4bd088f1858fa108efd4-mv2.jpg",
+      "alt": "",
+      "heading": "Sweet Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_d4ffe26ea682446a926e20f883946a1f~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_d4ffe26ea682446a926e20f883946a1f~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-d4ffe26ea682446a926e20f883946a1f-mv2.jpg",
+      "alt": "",
+      "heading": "Sweet Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_7a469149304e4defa91cd61b35fca332~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_7a469149304e4defa91cd61b35fca332~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-7a469149304e4defa91cd61b35fca332-mv2.jpg",
+      "alt": "",
+      "heading": "Sweet Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_89f5c09fbb8e48ee85bf5b6f036ef195~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_89f5c09fbb8e48ee85bf5b6f036ef195~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-89f5c09fbb8e48ee85bf5b6f036ef195-mv2.jpg",
+      "alt": "",
+      "heading": "Sweet Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_b86af70793b6498794070fc0c211ad00~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_b86af70793b6498794070fc0c211ad00~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-b86af70793b6498794070fc0c211ad00-mv2.jpg",
+      "alt": "",
+      "heading": "Sweet Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_c5511fdcada4443992ca8c912ba16362~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_c5511fdcada4443992ca8c912ba16362~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-c5511fdcada4443992ca8c912ba16362-mv2.jpg",
+      "alt": "",
+      "heading": "Sweet Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_ca27790b3ae7429eb033f8cc7414dab9~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_ca27790b3ae7429eb033f8cc7414dab9~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-ca27790b3ae7429eb033f8cc7414dab9-mv2.jpg",
+      "alt": "",
+      "heading": "Sweet Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_a8fb0d683bef498899da460e2dacea59~mv2.jpg/v1/fit/w_2000,h_1200,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/453b7f_a8fb0d683bef498899da460e2dacea59~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-a8fb0d683bef498899da460e2dacea59-mv2.jpg",
+      "alt": "Gluten Free Menu",
+      "heading": "Sweet Treats",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_dc645bd1fc6b46bba1e4006503802ea8~mv2.jpg/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_dc645bd1fc6b46bba1e4006503802ea8~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-dc645bd1fc6b46bba1e4006503802ea8-mv2.jpg",
+      "alt": "",
+      "heading": "Gluten Free Menu",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_5b3f09f1b1544135aed63ee990556641~mv2.jpg/v1/fit/w_2000,h_1200,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/453b7f_5b3f09f1b1544135aed63ee990556641~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-5b3f09f1b1544135aed63ee990556641-mv2.jpg",
+      "alt": "Extras",
+      "heading": "Gluten Free Menu",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_1b92551e9fd1414e9aa6ea93f645b819~mv2.png/v1/fill/w_960,h_720,al_c,q_80,usm_0.66_1.00_0.01/453b7f_1b92551e9fd1414e9aa6ea93f645b819~mv2.png",
+      "localPath": "/wix-clone-assets/453b7f-1b92551e9fd1414e9aa6ea93f645b819-mv2.png",
+      "alt": "",
+      "heading": "Extras",
+      "pageUrl": "https://www.sconeteaparty.co.uk/online-ordering",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_c7e887f71cd040f8bc70d4b4e9ed0634~mv2.png/v1/fit/w_480,h_480,q_90,enc_avif,quality_auto/453b7f_c7e887f71cd040f8bc70d4b4e9ed0634~mv2.png",
+      "localPath": "/wix-clone-assets/453b7f-c7e887f71cd040f8bc70d4b4e9ed0634-mv2.png",
+      "alt": "",
+      "heading": "",
+      "pageUrl": "https://www.sconeteaparty.co.uk/gallery",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_2c5d6256f6bb42fc92ee40a4fd7683b4~mv2.jpg/v1/fit/w_480,h_480,q_90,enc_avif,quality_auto/453b7f_2c5d6256f6bb42fc92ee40a4fd7683b4~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-2c5d6256f6bb42fc92ee40a4fd7683b4-mv2.jpg",
+      "alt": "",
+      "heading": "",
+      "pageUrl": "https://www.sconeteaparty.co.uk/gallery",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_40efef6bbceb4776b018d7bf5cf78c68~mv2.jpg/v1/fit/w_480,h_480,q_90,enc_avif,quality_auto/453b7f_40efef6bbceb4776b018d7bf5cf78c68~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-40efef6bbceb4776b018d7bf5cf78c68-mv2.jpg",
+      "alt": "",
+      "heading": "",
+      "pageUrl": "https://www.sconeteaparty.co.uk/gallery",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_ac439aeb8aa14e9798cab546ba83bbb8~mv2.jpg/v1/fit/w_480,h_480,q_90,enc_avif,quality_auto/453b7f_ac439aeb8aa14e9798cab546ba83bbb8~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-ac439aeb8aa14e9798cab546ba83bbb8-mv2.jpg",
+      "alt": "",
+      "heading": "",
+      "pageUrl": "https://www.sconeteaparty.co.uk/gallery",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_3da0ea75c9a342c5a9d93c58be1a5a47~mv2.jpg/v1/fit/w_480,h_480,q_90,enc_avif,quality_auto/453b7f_3da0ea75c9a342c5a9d93c58be1a5a47~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-3da0ea75c9a342c5a9d93c58be1a5a47-mv2.jpg",
+      "alt": "",
+      "heading": "",
+      "pageUrl": "https://www.sconeteaparty.co.uk/gallery",
+      "role": "content"
+    },
+    {
+      "sourceUrl": "https://static.wixstatic.com/media/453b7f_0e38c196f44d4f08b13375ee7bcb4c32~mv2.jpg/v1/fit/w_480,h_480,q_90,enc_avif,quality_auto/453b7f_0e38c196f44d4f08b13375ee7bcb4c32~mv2.jpg",
+      "localPath": "/wix-clone-assets/453b7f-0e38c196f44d4f08b13375ee7bcb4c32-mv2.jpg",
+      "alt": "",
+      "heading": "",
+      "pageUrl": "https://www.sconeteaparty.co.uk/gallery",
+      "role": "content"
+    }
+  ]
+}

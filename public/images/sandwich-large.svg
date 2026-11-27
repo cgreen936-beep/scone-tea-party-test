@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Large sandwich platter">
+  <rect width="640" height="480" fill="#f6ead8"/>
+  <ellipse cx="320" cy="400" rx="230" ry="26" fill="#e7d3b8"/>
+  <ellipse cx="320" cy="300" rx="240" ry="78" fill="#f7f1e8" stroke="#d9c3a4" stroke-width="6"/>
+  <g fill="#f3e2c4" stroke="#e2c89a" stroke-width="3">
+    <polygon points="180,250 250,360 110,360"/>
+    <polygon points="270,230 350,350 190,350"/>
+    <polygon points="370,250 450,360 290,360"/>
+    <polygon points="460,240 530,350 390,350"/>
+  </g>
+  <g>
+    <polygon points="150,330 210,330 180,292" fill="#c45a4a"/>
+    <polygon points="230,318 310,318 270,274" fill="#e0b043"/>
+    <polygon points="330,330 410,330 370,292" fill="#7ea35a"/>
+    <polygon points="420,320 490,320 455,286" fill="#d4784a"/>
+  </g>
+</svg>

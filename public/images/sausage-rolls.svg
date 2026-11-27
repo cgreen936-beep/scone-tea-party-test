@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Pork sausage rolls">
+  <rect width="640" height="480" fill="#f6ead8"/>
+  <ellipse cx="320" cy="400" rx="230" ry="26" fill="#e7d3b8"/>
+  <rect x="130" y="150" width="380" height="220" rx="20" fill="#f7f1e8" stroke="#d9c3a4" stroke-width="6"/>
+  <g>
+    <rect x="170" y="185" width="130" height="42" rx="21" fill="#e0a04a"/>
+    <rect x="340" y="185" width="130" height="42" rx="21" fill="#d4923c"/>
+    <rect x="170" y="250" width="130" height="42" rx="21" fill="#e8b15c"/>
+    <rect x="340" y="250" width="130" height="42" rx="21" fill="#e0a04a"/>
+    <rect x="250" y="312" width="140" height="42" rx="21" fill="#c98432"/>
+  </g>
+  <g stroke="#f8e7c4" stroke-width="2">
+    <path d="M190 206h90M360 206h90M190 271h90M360 271h90M270 333h100"/>
+  </g>
+</svg>

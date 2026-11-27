@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Gluten free sandwich platter">
+  <rect width="640" height="480" fill="#f8f1df"/>
+  <ellipse cx="320" cy="400" rx="210" ry="26" fill="#ead7b0"/>
+  <ellipse cx="320" cy="300" rx="220" ry="72" fill="#fffaf0" stroke="#e4d0a4" stroke-width="6"/>
+  <g fill="#f0d7a4" stroke="#e2c48a" stroke-width="3">
+    <polygon points="190,245 270,365 110,365"/>
+    <polygon points="320,225 410,360 230,360"/>
+    <polygon points="450,245 530,365 370,365"/>
+  </g>
+  <g fill="#c45a4a">
+    <polygon points="160,330 230,330 195,292"/>
+    <polygon points="280,320 360,320 320,276"/>
+    <polygon points="410,330 480,330 445,292"/>
+  </g>
+  <circle cx="500" cy="150" r="46" fill="#7d3044"/>
+  <text x="500" y="158" text-anchor="middle" font-family="Georgia, serif" font-size="28" font-weight="700" fill="#fffaf3">GF</text>
+</svg>

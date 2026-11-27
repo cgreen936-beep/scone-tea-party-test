@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "name": "Morrisons Semi Skimmed Milk",
+      "packLabel": "Morrisons Semi Skimmed Milk 2.272L",
+      "packSize": 2272,
+      "unit": "ml",
+      "price": 1.45,
+      "url": "https://groceries.morrisons.com/products/example-semi-skimmed-milk"
+    }
+  ]
+}

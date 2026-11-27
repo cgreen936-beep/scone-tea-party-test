@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Afternoon tea">
+  <rect width="640" height="480" fill="#f6ead8"/>
+  <ellipse cx="320" cy="400" rx="70" ry="16" fill="#e7d3b8"/>
+  <rect x="300" y="210" width="40" height="180" fill="#c4a574"/>
+  <ellipse cx="320" cy="168" rx="150" ry="28" fill="#fffaf3" stroke="#e4d5c3" stroke-width="4"/>
+  <ellipse cx="320" cy="250" rx="170" ry="30" fill="#fffaf3" stroke="#e4d5c3" stroke-width="4"/>
+  <ellipse cx="320" cy="340" rx="190" ry="32" fill="#fffaf3" stroke="#e4d5c3" stroke-width="4"/>
+  <g>
+    <circle cx="270" cy="150" r="16" fill="#f0cb7a"/>
+    <circle cx="320" cy="146" r="16" fill="#e2b15a"/>
+    <circle cx="370" cy="152" r="16" fill="#f0cb7a"/>
+    <circle cx="318" cy="150" r="6" fill="#a3203a"/>
+  </g>
+  <g fill="#f3e2c4" stroke="#e2c89a" stroke-width="2">
+    <polygon points="250,250 290,290 210,290"/>
+    <polygon points="320,244 364,292 276,292"/>
+    <polygon points="390,250 430,290 350,290"/>
+  </g>
+  <g>
+    <rect x="230" y="322" width="36" height="22" rx="4" fill="#f2e27a"/>
+    <rect x="280" y="318" width="36" height="22" rx="4" fill="#e7b0c4"/>
+    <rect x="330" y="324" width="36" height="22" rx="4" fill="#c9ddf2"/>
+    <rect x="378" y="320" width="36" height="22" rx="4" fill="#f2e27a"/>
+  </g>
+</svg>
